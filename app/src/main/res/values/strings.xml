@@ -1,0 +1,94 @@
+<resources>
+    <string name="nulo"> </string>
+    <string name="app_name">Sloz</string>
+    <string name="login_title">"Log in"</string>
+    <string name="facebook">"Facebook"</string>
+    <string name="google">"Google"</string>
+    <string name="email">"Email"</string>
+    <string name="apellido">"Apellidos"</string>
+    <string name="nombre">"Nombre"</string>
+    <string name="cont">"Contraseña"</string>
+    <string name="o_inicia">"O inicia sesión con tu teléfono"</string>
+    <string name="o_crea">"O regístrate con tu teléfono"</string>
+    <string name="crea_cuenta">"Crear cuenta"</string>
+    <string name="planea_viajes">"Planea tus viajes"</string>
+    <string name="mensaje_bienvenida">"Reserva alguno de nuestros hoteles para escapar de lo ordinario"</string>
+    <string name="recuperar_cont">"¿Has olvidado tu contraseña?"</string>
+    <string name="no_tiene_una_cuenta">"¿No tienes una cuenta?"</string>
+    <string name="create_una">"Create Una"</string>
+    <string name="ya_tienes_cuenta">"¿Ya tienes una cuenta?"</string>
+    <string name="recup_contr">"Recuperar contraseña"</string>
+    <string name="recup_contr_ayuda">"Inserta tu tfno. para saber que eres tú o recibe un email para cambiar la contraseña"</string>
+    <string name="tfno">"Tfno"</string>
+    <string name="enviar">"Enviar"</string>
+    <string name="busqueda">"¿A donde te apetece ir?"</string>
+    <string name="capadocia">"Capadocia"</string>
+    <string name="capadocia_body">"Extraordinarias actividades de cinco estrellas en las afueras"</string>
+    <string name="ver_hoteles">"Ver Hoteles"</string>
+    <string name="dest_pop">"Destinos Populares"</string>
+    <string name="adelante">"Adelante"</string>
+    <string name="politica">"Ve aquí nuestra política de uso"</string>
+    <string name="title_activity_bottom_menu">bottom_menu</string>
+    <string name="title_home">Home</string>
+    <string name="title_buscar">Buscar</string>
+    <string name="title_viajes">Viajes</string>
+    <string name="title_perfil">Perfil</string>
+
+    //Profile
+    <string name="profile_name">Diana Dixon</string>
+    <string name="profile_edit">Editar Perfil</string>
+    <string name="profile_CambiarContraseña">Cambiar Contraseña</string>
+    <string name="profile_Ayuda">Centro de Ayuda</string>
+    <string name="profile_InvitarAmigos">Invitar Amigos</string>
+    <string name="profile_Cupones">Cupones y descuentos</string>
+    <string name="profile_Pagos">Pagos</string>
+    <string name="profile_Ajustes">Ajustes</string>
+
+    //Settings
+    <string name="set_noti">Notificaciones</string>
+    <string name="set_idioma">Idioma</string>
+    <string name="set_mon">Moneda</string>
+    <string name="set_terminos">Terminos de Servicio</string>
+    <string name="set_priva">Politica de Privacidad</string>
+    <string name="set_op">Danos tu opinion</string>
+    <string name="set_logout">Log out</string>
+
+    //Settings
+    <string name="user">Usuario</string>
+    <string name="tfn">Teléfono</string>
+    <string name="Fecha">Fecha. Nac</string>
+    <string name="dir">Dirección</string>
+    <string name="edit_email">dianadixon@email.com</string>
+    <string name="edit_tlf">+34 616 37 20 77</string>
+    <string name="edit_fecha">11/09/2001</string>
+    <string name="edit_dir">Nueva York, NY</string>
+
+    //Help
+    <string name="help_que">¿Qué necesitas?</string>
+    <string name="help_reser">Tengo algun problema con la reserva</string>
+    <string name="help_habi">Mi habitacion no es lo que esperaba</string>
+
+    <string name="help_agotado">El tiempo de reserva se ha agotado</string>
+    <string name="help_pricipal">Me devuelve a la página principal</string>
+
+
+    <string name="help_como">¿Cómo podemos ayudarte?</string>
+    <string name="help_pagar">Pagar por una reserva</string>
+    <string name="help_cancel">¿Cómo cancelo una reserva?</string>
+    <string name="help_metodos">¿Qué métodos de pago son aceptados?</string>
+    <string name="help_metod_edit">¿Como edito mis métodos de pago?</string>
+    <string name="help_confianza">Confianza y seguridad</string>
+    <string name="help_segu">Soy un invitado. ¿Pasos para una completa seguridad?</string>
+
+    <string name="help_tocho">Una reserva solo puede ser cancelada antes de 15 días a la llegada al hotel. Si la reserva se cancela posterior a esa fecha el importe integro no será devuelto. El importe depende de lo siguiente. \n\nCondiciones:\nEl hotel acepta la devolución de la reserva. La devolución se debe a daños mayores. El error es ocasionado por nosotros. \n\nSi tienes alguna duda más no dudes en contactar a nuestros especialistas en la pestaña anterior. Cualquier añadido o idea que tengas no dudes en darnos feedback.</string>
+    <string name="feedback">Dar feedback</string>
+    <string name="Articulos_relacionados">Artículos relacionados</string>
+
+    <string name="help_related">Mi habitación no es lo que esperaba.\n\nTengo problemas con el pago.\n\nNecesito ayuda para llegar al hotel.</string>
+
+    <string name="escribe_prro">Escribe un mensaje...</string>
+    <string name="atencion_al_cliente">Atención al cliente de Sloz</string>
+    <string name="chat_sup">Hola, este mensaje es automatizado. Escribe tu duda y enseguida uno de nuestros operadores te atenderá de forma exclusiva. Agradecemos tu paciencia</string>
+
+
+</resources>

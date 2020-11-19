@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ihm.sloz">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".bottom_menu"
+            android:label="@string/title_activity_bottom_menu"></activity>
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".inicio.Eleccion" />
+        <activity android:name=".inicio.Login" />
+        <activity android:name=".inicio.CrearCuenta" />
+        <activity android:name=".inicio.Recuperar" />
+        <activity android:name=".home.Home" />
+        <activity android:name=".buscar.Buscar" />
+        <activity android:name=".viajes.Viajes" />
+        <activity android:name=".perfil.Perfil" />
+        <activity android:name=".ayuda.ElegirAyuda" />
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
